@@ -1,6 +1,6 @@
 {
-    "name": "saloon_rish_web",
-    "short_name": "saloon_rish_web",
+    "name": "saloon_rich_web",
+    "short_name": "saloon_rich_web",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

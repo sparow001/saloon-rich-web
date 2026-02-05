@@ -1,4 +1,4 @@
-# saloon_rish_web
+# saloon_rich_web
 
 A new Flutter project.
 
